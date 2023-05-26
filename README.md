@@ -33,7 +33,7 @@ sudo apt-get update
 
 To get this repository, run the following command inside your git enabled terminal
 
-git clone https://github.com/yeshwanthlm/django-on-ec2.git
+git clone https://github.com/Inximam/Django-quizApp.git
 You will need django to be installed in you computer to run this app. Head over to https://www.djangoproject.com/download/ for the download guide
 
 Download django usig pip
@@ -57,6 +57,6 @@ python3 manage.py createsuperuser
 That was pretty simple, right? Now let's make the App live. We just need to start the server now and then we can start using our simple todo App. Start the server by following command
 
 python3 manage.py runserver
-Once the server is hosted, head over to http://127.0.0.1:8000/todos for the App.
+Once the server is hosted, head over to http://127.0.0.1:8000/main for the App.
 
 Cheers and Happy Coding :)
